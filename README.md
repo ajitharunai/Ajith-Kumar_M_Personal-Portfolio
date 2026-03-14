@@ -13,6 +13,13 @@ The design is built focusing on:
 - **Accessibility:** Semantic HTML and ARIA roles for inclusive navigation.
 - **Responsiveness:** Fluid grid layouts adapting seamlessly from mobile to desktop.
 - **Modern UI/UX:** Glassmorphism, CSS variables-based theming, subtle animations, and scroll-triggered reveals.
+## 📸 Screenshots
+
+### Desktop View
+![Desktop Full View](assets/screenshots/desktop_hero.png)
+
+### Mobile View
+![Mobile Hero View](assets/screenshots/desktop_hero.png)
 
 ## ✨ Features
 
