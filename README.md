@@ -24,14 +24,6 @@ The design is built focusing on:
 - **Contact Form:** Functional and validated form to reach out directly.
 - **Responsive Navigation:** Sticky header with a mobile-friendly hamburger menu.
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Full View](assets/screenshots/desktop_full.png)
-
-### Mobile View
-![Mobile Hero View](assets/screenshots/mobile_hero.png)
-
 ## 🛠️ Built With
 
 - **HTML5:** Semantic structure and SEO-friendly tags.
